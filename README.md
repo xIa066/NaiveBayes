@@ -1,3 +1,3 @@
 # NaiveBayes
 
-Jupiter notebook for implementing and evaluating Naive Bayse algrotihms
+Jupiter notebook(python) for implementing and evaluating Naive Bayse algrotihms
